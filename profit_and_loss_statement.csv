@@ -1,0 +1,171 @@
+﻿account,year,Value
+Revenue From Operations [Gross],2025,1071174
+Revenue From Operations [Gross],2024,1000122
+Revenue From Operations [Gross],2023,974864
+Revenue From Operations [Gross],2022,792756
+Revenue From Operations [Gross],2021,539238
+Less: Excise/Sevice Tax/Other Levies,2025,106481
+Less: Excise/Sevice Tax/Other Levies,2024,99058
+Less: Excise/Sevice Tax/Other Levies,2023,97029
+Less: Excise/Sevice Tax/Other Levies,2022,92794
+Less: Excise/Sevice Tax/Other Levies,2021,72314
+Revenue From Operations [Net],2025,964693
+Revenue From Operations [Net],2024,901064
+Revenue From Operations [Net],2023,877835
+Revenue From Operations [Net],2022,699962
+Revenue From Operations [Net],2021,466924
+Total Operating Revenues,2025,964693
+Total Operating Revenues,2024,901064
+Total Operating Revenues,2023,877835
+Total Operating Revenues,2022,699962
+Total Operating Revenues,2021,466924
+Other Income,2025,17978
+Other Income,2024,16057
+Other Income,2023,11734
+Other Income,2022,14947
+Other Income,2021,16327
+Total Revenue,2025,982671
+Total Revenue,2024,917121
+Total Revenue,2023,889569
+Total Revenue,2022,714909
+Total Revenue,2021,483251
+Cost Of Materials Consumed,2025,422127
+Cost Of Materials Consumed,2024,400345
+Cost Of Materials Consumed,2023,450241
+Cost Of Materials Consumed,2022,360784
+Cost Of Materials Consumed,2021,199915
+Purchase Of Stock-In Trade,2025,222686
+Purchase Of Stock-In Trade,2024,189881
+Purchase Of Stock-In Trade,2023,168505
+Purchase Of Stock-In Trade,2022,135585
+Purchase Of Stock-In Trade,2021,101850
+Operating And Direct Expenses,2025,40240
+Operating And Direct Expenses,2024,38822
+Operating And Direct Expenses,2023,43376
+Operating And Direct Expenses,2022,29126
+Operating And Direct Expenses,2021,19978
+"Changes In Inventories Of FG,WIP And Stock-In Trade",2025,-15124
+"Changes In Inventories Of FG,WIP And Stock-In Trade",2024,-4883
+"Changes In Inventories Of FG,WIP And Stock-In Trade",2023,-30263
+"Changes In Inventories Of FG,WIP And Stock-In Trade",2022,-21457
+"Changes In Inventories Of FG,WIP And Stock-In Trade",2021,-9064
+Employee Benefit Expenses,2025,28559
+Employee Benefit Expenses,2024,25679
+Employee Benefit Expenses,2023,24872
+Employee Benefit Expenses,2022,18775
+Employee Benefit Expenses,2021,14817
+Finance Costs,2025,24269
+Finance Costs,2024,23118
+Finance Costs,2023,19571
+Finance Costs,2022,14584
+Finance Costs,2021,21189
+Depreciation And Amortisation Expenses,2025,53136
+Depreciation And Amortisation Expenses,2024,50832
+Depreciation And Amortisation Expenses,2023,40303
+Depreciation And Amortisation Expenses,2022,29797
+Depreciation And Amortisation Expenses,2021,26572
+Other Expenses,2025,103617
+Other Expenses,2024,90655
+Other Expenses,2023,80029
+Other Expenses,2022,67418
+Other Expenses,2021,59680
+Less: Transfer to / From Investment / Fixed Assets / Others,2025,0
+Less: Transfer to / From Investment / Fixed Assets / Others,2024,1668
+Less: Transfer to / From Investment / Fixed Assets / Others,2023,1087
+Less: Transfer to / From Investment / Fixed Assets / Others,2022,729
+Less: Transfer to / From Investment / Fixed Assets / Others,2021,989
+Less: Amounts Transfer To Capital Accounts,2025,2856
+Less: Amounts Transfer To Capital Accounts,2024,0
+Less: Amounts Transfer To Capital Accounts,2023,0
+Less: Amounts Transfer To Capital Accounts,2022,0
+Less: Amounts Transfer To Capital Accounts,2021,0
+Total Expenses,2025,876654
+Total Expenses,2024,812781
+Total Expenses,2023,795547
+Total Expenses,2022,633883
+Total Expenses,2021,433948
+EBIT,2025,106017
+EBIT,2024,104340
+EBIT,2023,94022
+EBIT,2022,81026
+EBIT,2021,49303
+Exceptional Items,2025,0
+Exceptional Items,2024,0
+Exceptional Items,2023,0
+Exceptional Items,2022,2836
+Exceptional Items,2021,5642
+PBT,2025,106017
+PBT,2024,104340
+PBT,2023,94022
+PBT,2022,83862
+PBT,2021,54945
+Current Tax,2025,12758
+Current Tax,2024,13590
+Current Tax,2023,8398
+Current Tax,2022,3161
+Current Tax,2021,2205
+Deferred Tax,2025,12472
+Deferred Tax,2024,12117
+Deferred Tax,2023,11978
+Deferred Tax,2022,13136
+Deferred Tax,2021,-483
+Total Tax Expenses,2025,25230
+Total Tax Expenses,2024,25707
+Total Tax Expenses,2023,20376
+Total Tax Expenses,2022,16297
+Total Tax Expenses,2021,1722
+PAT,2025,80787
+PAT,2024,78633
+PAT,2023,73646
+PAT,2022,67565
+PAT,2021,53223
+PAT (Continuing),2025,80787
+PAT (Continuing),2024,78633
+PAT (Continuing),2023,73646
+PAT (Continuing),2022,67565
+PAT (Continuing),2021,53223
+Profit Loss From Discontinuing Operations,2025,0
+Profit Loss From Discontinuing Operations,2024,0
+Profit Loss From Discontinuing Operations,2023,418
+Profit Loss From Discontinuing Operations,2022,0
+Profit Loss From Discontinuing Operations,2021,0
+Net Profit Loss From Discontinuing Operations,2025,0
+Net Profit Loss From Discontinuing Operations,2024,0
+Net Profit Loss From Discontinuing Operations,2023,418
+Net Profit Loss From Discontinuing Operations,2022,0
+Net Profit Loss From Discontinuing Operations,2021,0
+Net Profit,2025,80787
+Net Profit,2024,78633
+Net Profit,2023,74064
+Net Profit,2022,67565
+Net Profit,2021,53223
+Minority Interest,2025,-11661
+Minority Interest,2024,-9399
+Minority Interest,2023,-7386
+Minority Interest,2022,-7140
+Minority Interest,2021,-4611
+Share Of Profit/Loss Of Associates,2025,522
+Share Of Profit/Loss Of Associates,2024,387
+Share Of Profit/Loss Of Associates,2023,24
+Share Of Profit/Loss Of Associates,2022,280
+Share Of Profit/Loss Of Associates,2021,516
+Consolidated Profit/Loss After MI And Associates,2025,69648
+Consolidated Profit/Loss After MI And Associates,2024,69621
+Consolidated Profit/Loss After MI And Associates,2023,66702
+Consolidated Profit/Loss After MI And Associates,2022,60705
+Consolidated Profit/Loss After MI And Associates,2021,49128
+EPS,2025,51
+EPS,2024,103
+EPS,2023,99
+EPS,2022,92
+EPS,2021,76
+Diluted EPS (Rs.),2025,51
+Diluted EPS (Rs.),2024,103
+Diluted EPS (Rs.),2023,99
+Diluted EPS (Rs.),2022,91
+Diluted EPS (Rs.),2021,75
+Equity Share Dividend,2025,6766
+Equity Share Dividend,2024,6089
+Equity Share Dividend,2023,5083
+Equity Share Dividend,2022,4297
+Equity Share Dividend,2021,3921
