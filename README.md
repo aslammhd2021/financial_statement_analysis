@@ -1,12 +1,6 @@
-Perfect. I’ll write a **clean, professional, fresher-level but strong README** that you can directly paste into GitHub.
+📊 Financial Statement Analysis – Reliance Industries Ltd
 
-You can copy → paste → edit small details if needed.
-
----
-
-# 📊 Financial Statement Analysis – Reliance Industries Ltd
-
-## 📌 Project Overview
+📌 Project Overview
 
 This project analyzes the financial performance of **Reliance Industries Ltd** using structured financial datasets including Balance Sheet, Profit & Loss Statement, Cash Flow Statement, Financial Ratios, and Peer Comparison data.
 
@@ -19,9 +13,8 @@ This project focuses on:
 * Creating an interactive dashboard in Power BI
 * Extracting business insights from financial metrics
 
----
 
-## 🎯 Project Objective
+🎯 Project Objective
 
 To evaluate the company’s:
 
